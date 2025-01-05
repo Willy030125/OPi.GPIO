@@ -5,6 +5,7 @@ ChangeLog
 | Version    | Description                                                         | Date       |
 +============+=====================================================================+============+
 | **0.5.4**  | * Added OrangePi Zero3 pin mappings                                 | 2023/08/06 |
+|            | * Added OrangePi Zero2w pin mappings                                |            |
 +------------+---------------------------------------------------------------------+------------+
 | **0.5.3**  | * Add pin mappings for Radxa Zero                                   | 2022/06/20 |
 |            | * Added OrangePi Zero2 pin mappings                                 |            |
